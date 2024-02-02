@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198410836128",
+    "project_id": "chat-karo-fb69d",
+    "storage_bucket": "chat-karo-fb69d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198410836128:android:73b85223d364829ccd51c5",
+        "android_client_info": {
+          "package_name": "com.example.chatkaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxoKYgsit07JSLfFQRIpw52RDr44Z8Zc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
