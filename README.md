@@ -6,15 +6,14 @@ Chat Karo is a Realtime Chat Android Application that enables users to communica
 https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=sharing
 
 ## Layout
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/LoginPage.jpg" alt="Alt Text" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/LoginPage.jpg" alt="Login Page" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/SignupPage.jpg" alt="Signup Page" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/RecentChats.jpg" alt="Recent Chats" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/AllUsers.jpg" alt="All Users" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/ChatLog.jpg" alt="Chat Log" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Online.jpg" alt="Online Users" width="200" height="150">
+<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications" width="200" height="150">
 
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/LoginPage.jpg)
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/SignupPage.jpg)
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/RecentChats.jpg)
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/AllUsers.jpg)
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/ChatLog.jpg)
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/Online.jpg)
-![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/Notification.jpg)
 
 ## Features
 - Realtime communication between users.
