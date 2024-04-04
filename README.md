@@ -6,13 +6,24 @@ Chat Karo is a Realtime Chat Android Application that enables users to communica
 https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=sharing
 
 ## Layout
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/LoginPage.jpg" alt="Login Page" width="300" height="500">
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/SignupPage.jpg" alt="Signup Page" width="300" height="500">
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/RecentChats.jpg" alt="Recent Chats" width="300" height="500">
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/AllUsers.jpg" alt="All Users" width="300" height="500">
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/ChatLog.jpg" alt="Chat Log" width="300" height="500">
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Online.jpg" alt="Online Users" width="300" height="500">
-<img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications" width="300" height="500">
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/LoginPage.jpg" alt="Login Page" width="300" height="500"></td>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/SignupPage.jpg" alt="Signup Page" width="300" height="500"></td>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/RecentChats.jpg" alt="Recent Chats" width="300" height="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/AllUsers.jpg" alt="All Users" width="300" height="500"></td>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/ChatLog.jpg" alt="Chat Log" width="300" height="500"></td>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Online.jpg" alt="Online Users" width="300" height="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications" width="300" height="500"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 
