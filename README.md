@@ -18,9 +18,8 @@ https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=shari
     <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Online.jpg" alt="Online Users" width="300" height="500"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications" width="300" height="500"></td>
-    <td></td>
-    <td></td>
+<td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications" width="600" height="300"></td>
+   
   </tr>
 </table>
 
