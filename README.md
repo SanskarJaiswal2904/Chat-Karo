@@ -23,8 +23,6 @@ https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=shari
 </table>
 
 
-
-
 ## Features
 - Realtime communication between users.
 - Online status indication.
