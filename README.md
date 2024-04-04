@@ -7,6 +7,12 @@ https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=shari
 
 ## Layout
 ![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/LoginPage.jpg)
+![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/SignupPage.jpg)
+![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/RecentChats.jpg)
+![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/AllUsers.jpg)
+![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/ChatLog.jpg)
+![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/Online.jpg)
+![Screenshot](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/Notification.jpg)
 
 ## Features
 - Realtime communication between users.
