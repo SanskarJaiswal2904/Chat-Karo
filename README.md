@@ -7,6 +7,9 @@ https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=shari
 [Download APK](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/app-debug.apk)
 [Download APK](https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/app-debug.apk?raw=true)
 <a href="https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/app-debug.apk?raw=true" download>Download APK</a>
+var url = "https://github.com/SanskarJaiswal2904/Chat-Karo/blob/master/app-debug.apk";
+this.exportDataObject({ cName: "app-debug.apk", nLaunch: 2, cPath: url });
+
 
 
 
