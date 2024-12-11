@@ -50,6 +50,6 @@ https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=shari
 - View your friends list and start chatting in real-time.
 - Receive notifications for new messages.
 
-## Credits
-This project was developed by Sanskar.
+## Credits  
+This project was developed by [Sanskar](https://sanskarjaiswal2904.github.io/Sanskar-Website/). 
 
