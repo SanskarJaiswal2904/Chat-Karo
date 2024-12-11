@@ -24,6 +24,14 @@
         android:textColor="@color/primary_text"
         android:textSize="@dimen/_18ssp"
         android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_7sdp"
+            android:text="Chat Karo"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/_13ssp"
+            android:textStyle="bold"/>
 
      <FrameLayout
          android:id="@+id/layoutImage"
