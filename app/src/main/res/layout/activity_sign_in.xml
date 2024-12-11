@@ -99,12 +99,15 @@
             android:textStyle="bold"/>
 
         <TextView
+            android:id="@+id/SanskarName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="From Sanskar"
             android:layout_marginTop="@dimen/_160sdp"
             android:textColor="@color/primary"
             android:textSize="@dimen/_15ssp"
-            android:textStyle="italic"/>
+            android:textStyle="italic"
+            android:autoLink="web"
+            android:linksClickable="true"/>
     </LinearLayout>
 </ScrollView>

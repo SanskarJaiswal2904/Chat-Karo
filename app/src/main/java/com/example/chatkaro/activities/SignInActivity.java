@@ -6,6 +6,10 @@ import android.content.Context;
 import android.content.Intent;
 
 import android.os.Bundle;
+import android.text.SpannableString;
+import android.text.Spanned;
+import android.text.method.LinkMovementMethod;
+import android.text.style.URLSpan;
 import android.util.Patterns;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -29,6 +33,13 @@ public class SignInActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivitySignInBinding.inflate(getLayoutInflater());
         preferenceManager = new PreferenceManager(getApplicationContext());
+
+        //Making Sanskar clickable
+        SpannableString spannableString = new SpannableString("From Sanskar"); // Create a SpannableString with the text "From Sanskar"
+        spannableString.setSpan(new URLSpan("https://sanskarjaiswal2904.github.io/Sanskar-Website/"),
+                5, 12, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
+        binding.SanskarName.setText(spannableString);  // Set the spannable string to the TextView
+        binding.SanskarName.setMovementMethod(LinkMovementMethod.getInstance());  // Make the TextView clickable
 
         //if user has not logged out then don't need to sign in
         automaticLogIn();
