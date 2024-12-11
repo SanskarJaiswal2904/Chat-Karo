@@ -5,6 +5,11 @@ Chat Karo is a Realtime Chat Android Application that enables users to communica
 ## APK File
 https://drive.google.com/file/d/1WIoIRACDkjT5U2gC_wqMq8bip_rY4G87/view?usp=sharing
 
+## Bundle File
+https://drive.google.com/drive/folders/16cfQGnWICIoolHwKyloikHmaAlnvI6dn?usp=sharing
+
+## .zip File
+https://drive.google.com/drive/folders/1TLdUVILb0-S5AYbtD4ItYTRr4IlKhT7s?usp=sharing
 
 
 
