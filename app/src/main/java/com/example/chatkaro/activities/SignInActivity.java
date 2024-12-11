@@ -57,7 +57,6 @@ public class SignInActivity extends AppCompatActivity {
             if (isValidSignInDetails()){
                 SignIn();
             }
-
         });
     }
     private void SignIn(){
