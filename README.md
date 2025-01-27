@@ -27,7 +27,7 @@ https://drive.google.com/drive/folders/1TLdUVILb0-S5AYbtD4ItYTRr4IlKhT7s?usp=sha
     <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Online.jpg" alt="Online Users" width="300" height="500"></td>
   </tr>
   <tr>
-  <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications"  width="auto" height="500"></td>   
+  <td align="center"><img src="https://github.com/SanskarJaiswal2904/Chat-Karo/raw/master/Notification.jpg" alt="Notifications"  width="300" height="auto"></td>   
   </tr>
 </table>
 
